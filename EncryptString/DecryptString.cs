@@ -1,13 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace EncryptString
+﻿namespace EncryptString
 {
+    using System;
+    using System.Collections.Generic;
+    using System.IO;
+    using System.Linq;
+    using System.Security.Cryptography;
+    using System.Text;
+    using System.Threading.Tasks;
+
     public class DecryptString
     {
         static string key = "OS/Ez7b2Lf/2V9ZW3f3BqoszshGptkn0CNTAhD1zx2I=";
